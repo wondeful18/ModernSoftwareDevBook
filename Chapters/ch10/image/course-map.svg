@@ -37,14 +37,14 @@
     <circle cx="551" cy="109" r="9" fill="#fcfaf2" stroke="#455d54" stroke-width="1"/>
     <text x="551" y="113" fill="#455d54" font-size="10" font-weight="700" text-anchor="middle">4</text>
     <text x="566" y="118" fill="#253833" font-size="16" font-weight="700" text-anchor="start">第 08–09 章</text>
-    <text x="549" y="138" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">后台开发与交付</text>
+    <text x="549" y="138" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">后台开发与团队</text>
     <path d="M 679 134 H 690" fill="none" stroke="#455d54" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
     <rect x="700" y="93" width="142" height="90" rx="12" fill="#394c3e" opacity=".10"/>
     <rect x="698" y="90" width="142" height="90" rx="12" fill="#e9e4f1" stroke="#455d54" stroke-width="1.35"/>
     <circle cx="716" cy="109" r="9" fill="#fcfaf2" stroke="#455d54" stroke-width="1"/>
     <text x="716" y="113" fill="#455d54" font-size="10" font-weight="700" text-anchor="middle">5</text>
     <text x="731" y="118" fill="#253833" font-size="16" font-weight="700" text-anchor="start">第 10 章</text>
-    <text x="714" y="138" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">权限、模型与团队</text>
+    <text x="714" y="138" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">权限、模型与交付</text>
     <path d="M 45 197 Q 390 193 834 197" fill="none" stroke="#a7b6a9" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 5"/>
     <rect x="40" y="212" width="800" height="26" rx="7" fill="#ecefe4"/>
     <text x="54" y="230" fill="#455d54" font-size="14" font-weight="500" text-anchor="start">10 章共用一个本地 Taskboard 实验</text>
