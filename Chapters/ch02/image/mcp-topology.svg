@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="344" viewBox="0 0 880 344" role="img" aria-labelledby="title summary">
+  <title id="title">一个 MCP Host，两条客户端连接</title>
+  <desc id="summary">Host 管理连接和模型交互 • Server 提供已暴露的能力</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1 L8 5 L1 9" fill="none" stroke="#455d54" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="878" height="342" rx="18" fill="#fcfaf2" stroke="#d2d9cf" stroke-width="2"/>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <text x="40" y="46" fill="#253833" font-size="25" font-weight="700" text-anchor="start">一个 MCP Host，两条客户端连接</text>
+    <text x="838" y="43" fill="#455d54" font-size="13" font-weight="700" text-anchor="end">CS146S  /  02</text>
+    <path d="M 40 63 Q 198 61 338 64 T 839 63" fill="none" stroke="#cbd3c8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="227" y="78" width="316" height="208" rx="16" fill="#eaf0e6" stroke="#687f70" stroke-width="1.5" stroke-dasharray="6 5"/>
+    <text x="246" y="101" fill="#455d54" font-size="16" font-weight="700" text-anchor="start">MCP Host</text>
+    <path d="M 188 190 H 232" fill="none" stroke="#455d54" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <path d="M 232 190 H 248 V 147 H 265" fill="none" stroke="#455d54" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <path d="M 232 190 H 248 V 225 H 265" fill="none" stroke="#455d54" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <path d="M 504 147 H 587" fill="none" stroke="#455d54" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <path d="M 504 225 H 587" fill="none" stroke="#455d54" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <text x="560" y="136" fill="#455d54" font-size="12" font-weight="700" text-anchor="middle">MCP</text>
+    <text x="560" y="214" fill="#455d54" font-size="12" font-weight="700" text-anchor="middle">MCP</text>
+    <rect x="45" y="157" width="140" height="62" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="43" y="154" width="140" height="62" rx="12" fill="#f6e8b7" stroke="#455d54" stroke-width="1.35"/>
+    <text x="59" y="182" fill="#253833" font-size="17" font-weight="700" text-anchor="start">工具调用意图</text>
+    <text x="59" y="202" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">模型提出请求</text>
+    <rect x="275" y="119" width="225" height="62" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="273" y="116" width="225" height="62" rx="12" fill="#dcece2" stroke="#455d54" stroke-width="1.35"/>
+    <text x="289" y="144" fill="#253833" font-size="17" font-weight="700" text-anchor="start">Client A</text>
+    <text x="289" y="164" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">连接 Taskboard</text>
+    <rect x="275" y="197" width="225" height="62" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="273" y="194" width="225" height="62" rx="12" fill="#e0e9f3" stroke="#455d54" stroke-width="1.35"/>
+    <text x="289" y="222" fill="#253833" font-size="17" font-weight="700" text-anchor="start">Client B</text>
+    <text x="289" y="242" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">连接文档服务</text>
+    <rect x="597" y="119" width="238" height="62" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="595" y="116" width="238" height="62" rx="12" fill="#f1e1d8" stroke="#455d54" stroke-width="1.35"/>
+    <text x="611" y="144" fill="#253833" font-size="17" font-weight="700" text-anchor="start">Taskboard Server</text>
+    <text x="611" y="164" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">只读 list_tasks</text>
+    <rect x="597" y="197" width="238" height="62" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="595" y="194" width="238" height="62" rx="12" fill="#e9e4f1" stroke="#455d54" stroke-width="1.35"/>
+    <text x="611" y="222" fill="#253833" font-size="17" font-weight="700" text-anchor="start">文档 Server</text>
+    <text x="611" y="242" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">读取版本说明</text>
+    <rect x="40" y="302" width="800" height="26" rx="7" fill="#ecefe4"/>
+    <text x="54" y="320" fill="#455d54" font-size="14" font-weight="500" text-anchor="start">Host 管理连接和模型交互 • Server 提供已暴露的能力</text>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="356" viewBox="0 0 880 356" role="img" aria-labelledby="title summary">
+  <title id="title">从多条意见中提炼可执行结论</title>
+  <desc id="summary">用问题位置、影响和修复建议识别重复项</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1 L8 5 L1 9" fill="none" stroke="#455d54" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="878" height="354" rx="18" fill="#fcfaf2" stroke="#d2d9cf" stroke-width="2"/>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <text x="40" y="46" fill="#253833" font-size="25" font-weight="700" text-anchor="start">从多条意见中提炼可执行结论</text>
+    <text x="838" y="43" fill="#455d54" font-size="13" font-weight="700" text-anchor="end">CS146S  /  06</text>
+    <path d="M 40 63 Q 198 61 338 64 T 839 63" fill="none" stroke="#cbd3c8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="50" y="85" width="168" height="70" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="48" y="82" width="168" height="70" rx="12" fill="#f6e8b7" stroke="#455d54" stroke-width="1.35"/>
+    <text x="64" y="110" fill="#253833" font-size="17" font-weight="700" text-anchor="start">行为检查</text>
+    <text x="64" y="130" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">找可能的回归</text>
+    <path d="M 132 155 V 193" fill="none" stroke="#455d54" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="255" y="85" width="168" height="70" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="253" y="82" width="168" height="70" rx="12" fill="#dcece2" stroke="#455d54" stroke-width="1.35"/>
+    <text x="269" y="110" fill="#253833" font-size="17" font-weight="700" text-anchor="start">边界检查</text>
+    <text x="269" y="130" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">聚焦空值和错误</text>
+    <path d="M 337 155 V 193" fill="none" stroke="#455d54" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="460" y="85" width="168" height="70" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="458" y="82" width="168" height="70" rx="12" fill="#e0e9f3" stroke="#455d54" stroke-width="1.35"/>
+    <text x="474" y="110" fill="#253833" font-size="17" font-weight="700" text-anchor="start">CI 回执</text>
+    <text x="474" y="130" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">提供真实输出</text>
+    <path d="M 542 155 V 193" fill="none" stroke="#455d54" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="665" y="85" width="168" height="70" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="663" y="82" width="168" height="70" rx="12" fill="#f1e1d8" stroke="#455d54" stroke-width="1.35"/>
+    <text x="679" y="110" fill="#253833" font-size="17" font-weight="700" text-anchor="start">人工核对</text>
+    <text x="679" y="130" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">判断证据强度</text>
+    <path d="M 747 155 V 193" fill="none" stroke="#455d54" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 132 193 H 747" fill="none" stroke="#455d54" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 440 193 V 216" fill="none" stroke="#455d54" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <rect x="272" y="227" width="340" height="74" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="270" y="224" width="340" height="74" rx="12" fill="#e9e4f1" stroke="#455d54" stroke-width="1.35"/>
+    <text x="286" y="252" fill="#253833" font-size="17" font-weight="700" text-anchor="start">汇总结果</text>
+    <text x="286" y="272" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">确认问题、合并重复项</text>
+    <rect x="40" y="314" width="800" height="26" rx="7" fill="#ecefe4"/>
+    <text x="54" y="332" fill="#455d54" font-size="14" font-weight="500" text-anchor="start">用问题位置、影响和修复建议识别重复项</text>
+  </g>
+</svg>

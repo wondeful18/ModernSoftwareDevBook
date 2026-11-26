@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="379" viewBox="0 0 880 379" role="img" aria-labelledby="title summary">
+  <title id="title">同一个查询，两种轮次预算</title>
+  <desc id="summary">第一轮已完成查询 • 最终答复需要第二轮</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1 L8 5 L1 9" fill="none" stroke="#455d54" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="878" height="377" rx="18" fill="#fcfaf2" stroke="#d2d9cf" stroke-width="2"/>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <text x="40" y="46" fill="#253833" font-size="25" font-weight="700" text-anchor="start">同一个查询，两种轮次预算</text>
+    <text x="838" y="43" fill="#455d54" font-size="13" font-weight="700" text-anchor="end">CS146S  /  01</text>
+    <path d="M 40 63 Q 198 61 338 64 T 839 63" fill="none" stroke="#cbd3c8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 440 77 V 318" fill="none" stroke="#9cae9f" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 5"/>
+    <rect x="47" y="83" width="375" height="62" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="45" y="80" width="375" height="62" rx="12" fill="#f6e8b7" stroke="#455d54" stroke-width="1.35"/>
+    <text x="61" y="108" fill="#253833" font-size="17" font-weight="700" text-anchor="start">预算为 2</text>
+    <text x="61" y="128" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">可提交最终答案</text>
+    <rect x="462" y="83" width="375" height="62" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="460" y="80" width="375" height="62" rx="12" fill="#e0e9f3" stroke="#455d54" stroke-width="1.35"/>
+    <text x="476" y="108" fill="#253833" font-size="17" font-weight="700" text-anchor="start">预算为 1</text>
+    <text x="476" y="128" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">停在工具回执</text>
+    <rect x="47" y="160" width="375" height="62" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="45" y="157" width="375" height="62" rx="12" fill="#f6e8b7" stroke="#455d54" stroke-width="1.35"/>
+    <text x="61" y="185" fill="#253833" font-size="17" font-weight="700" text-anchor="start">第 1 轮</text>
+    <text x="61" y="205" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">查询得到 101、103</text>
+    <rect x="462" y="160" width="375" height="62" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="460" y="157" width="375" height="62" rx="12" fill="#e0e9f3" stroke="#455d54" stroke-width="1.35"/>
+    <text x="476" y="185" fill="#253833" font-size="17" font-weight="700" text-anchor="start">第 1 轮</text>
+    <text x="476" y="205" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">查询得到 101、103</text>
+    <rect x="47" y="237" width="375" height="62" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="45" y="234" width="375" height="62" rx="12" fill="#f6e8b7" stroke="#455d54" stroke-width="1.35"/>
+    <text x="61" y="262" fill="#253833" font-size="17" font-weight="700" text-anchor="start">第 2 轮</text>
+    <text x="61" y="282" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">根据回执回答</text>
+    <rect x="462" y="237" width="375" height="62" rx="12" fill="#394c3e" opacity=".10"/>
+    <rect x="460" y="234" width="375" height="62" rx="12" fill="#e0e9f3" stroke="#455d54" stroke-width="1.35"/>
+    <text x="476" y="262" fill="#253833" font-size="17" font-weight="700" text-anchor="start">停止原因</text>
+    <text x="476" y="282" fill="#455d54" font-size="14" font-weight="400" text-anchor="start">已耗尽轮次</text>
+    <rect x="40" y="337" width="800" height="26" rx="7" fill="#ecefe4"/>
+    <text x="54" y="355" fill="#455d54" font-size="14" font-weight="500" text-anchor="start">第一轮已完成查询 • 最终答复需要第二轮</text>
+  </g>
+</svg>

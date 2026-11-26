@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="358" viewBox="0 0 880 358" role="img" aria-labelledby="title summary">
+  <title id="title">比较两条路线的单位成本</title>
+  <desc id="summary">总成本等于调用费用加人工复核成本</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1 L8 5 L1 9" fill="none" stroke="#455d54" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="878" height="356" rx="18" fill="#fcfaf2" stroke="#d2d9cf" stroke-width="2"/>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <text x="40" y="46" fill="#253833" font-size="25" font-weight="700" text-anchor="start">比较两条路线的单位成本</text>
+    <text x="838" y="43" fill="#455d54" font-size="13" font-weight="700" text-anchor="end">CS146S  /  10</text>
+    <path d="M 40 63 Q 198 61 338 64 T 839 63" fill="none" stroke="#cbd3c8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="48" y="95" fill="#253833" font-size="17" font-weight="700" text-anchor="start">模型调用费用（元／20 个任务）</text>
+    <path d="M 154 107 v64" fill="none" stroke="#9cae9f" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="49" y="127" fill="#455d54" font-size="14" font-weight="700" text-anchor="start">路线 A</text>
+    <rect x="155" y="110" width="274" height="23" rx="6" fill="#d5b961" stroke="#455d54" stroke-width="1.2"/>
+    <text x="441" y="127" fill="#253833" font-size="14" font-weight="700" text-anchor="start">¥12</text>
+    <text x="49" y="159" fill="#455d54" font-size="14" font-weight="700" text-anchor="start">路线 B</text>
+    <rect x="155" y="142" width="548" height="23" rx="6" fill="#83b2a0" stroke="#455d54" stroke-width="1.2"/>
+    <text x="715" y="159" fill="#253833" font-size="14" font-weight="700" text-anchor="start">¥24</text>
+    <text x="48" y="203" fill="#253833" font-size="17" font-weight="700" text-anchor="start">含人工复核的每个通过任务成本（元）</text>
+    <path d="M 154 215 v64" fill="none" stroke="#9cae9f" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="49" y="235" fill="#455d54" font-size="14" font-weight="700" text-anchor="start">路线 A</text>
+    <rect x="155" y="218" width="548" height="23" rx="6" fill="#d5b961" stroke="#455d54" stroke-width="1.2"/>
+    <text x="715" y="235" fill="#253833" font-size="14" font-weight="700" text-anchor="start">¥2.00</text>
+    <text x="49" y="267" fill="#455d54" font-size="14" font-weight="700" text-anchor="start">路线 B</text>
+    <rect x="155" y="250" width="490" height="23" rx="6" fill="#83b2a0" stroke="#455d54" stroke-width="1.2"/>
+    <text x="657" y="267" fill="#253833" font-size="14" font-weight="700" text-anchor="start">约 ¥1.79</text>
+    <rect x="40" y="316" width="800" height="26" rx="7" fill="#ecefe4"/>
+    <text x="54" y="334" fill="#455d54" font-size="14" font-weight="500" text-anchor="start">总成本等于调用费用加人工复核成本</text>
+  </g>
+</svg>
